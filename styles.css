@@ -1,0 +1,31 @@
+
+/* Additional styles from styles.css */
+@font-face {
+    font-family: future;
+    src: url(Futureworld-ZGwJ.ttf);
+}
+
+@font-face {
+    font-family: head;
+    src: url(Stardate81316-aolE.ttf);
+}
+
+logo{
+  
+     font-family: head;
+}
+h{
+  
+     font-family: head;
+     font-size: 50px;
+}
+
+html {
+    background-image: url("https://i.ibb.co/9NFZgzF/bgggg.png");
+    background-attachment: fixed;
+    max-width: 850px;
+    margin: auto;
+    color: #20fa95;
+    font-family: "future", serif;
+    
+}
